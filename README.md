@@ -1,7 +1,11 @@
 ## MotionBase
 
 **A Text-to-Motion Generation Model based on GPT and VQVAE**
+this is the released code for ICLR2025-submission, including testing, visuliaze codes and the pre-trained model (gpt-2-700m).
+Our training code, dataset and more pretrained models will be released after ICLR final decision.
 
+### Checkpoints
+Please download ckpts from [https://www.dropbox.com/scl/fo/mx3u3mrvl72lkp6orc7o6/AJDXOC1RBWbCwXGZKeivgUk?rlkey=weq4o5enb7p3eyqnooe526orj&st=tab84oo7&dl=0](ckpt_url)
 
 ### Project Structure
 
@@ -19,6 +23,8 @@
 ├── test.py                  # Test script
 └── test.sh                  # Test script launcher
 ```
+
+or you can also build the conda environment from environment.yaml
 
 ### Environment Setup
 
