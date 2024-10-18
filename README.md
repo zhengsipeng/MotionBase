@@ -1,4 +1,4 @@
-## MotionBase
+## MotionBase for ICLR2025
 
 **A Text-to-Motion Generation Model based on GPT and VQVAE**
 this is the released code for ICLR2025-submission, including testing, visuliaze codes and the pre-trained model (gpt-2-700m).
